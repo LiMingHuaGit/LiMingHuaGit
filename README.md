@@ -99,53 +99,36 @@ const ming = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-updating-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Profile Views](https://komarev.com/ghpvc/?username=LiMingHuaGit&label=Profile%20Views&color=blue&style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 🚀 Building, shipping, and learning in public
->
-> 📦 Profile stats update automatically when WakaTime secrets are configured
->
-> 🔭 Current focus: AI-first product engineering and developer tooling
-
-**I'm Usually Shipping Late 🌙**
-
-```text
-🌞 Morning                █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-🌆 Daytime                ███████░░░░░░░░░░░░░░░░░░   28.00 %
-🌃 Evening                █████████░░░░░░░░░░░░░░░░   37.00 %
-🌙 Night                  ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
-```
-
-📊 **This Week I Spent My Time On**
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 127 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Java** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages:
-Java                     ████████░░░░░░░░░░░░░░░░░   32.00 %
-TypeScript               ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Swift                    █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Python                   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Markdown                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-
-💻 Operating System:
-Mac                      █████████████████████████   100.00 %
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
-**I Mostly Build Across Product Surfaces**
 
-```text
-Backend systems          █████████░░░░░░░░░░░░░░░░   36.00 %
-Web applications         ████████░░░░░░░░░░░░░░░░░   32.00 %
-Mobile clients           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Automation               ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-```
 
-Last Updated: waiting for the first automated Waka Readme run
+
+ Last Updated on 20/09/2026 09:55:27 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
