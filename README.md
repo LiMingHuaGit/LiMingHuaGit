@@ -10,11 +10,13 @@
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white)](https://github.com/LiMingHuaGit)
 ![Waka Readme](https://github.com/LiMingHuaGit/LiMingHuaGit/actions/workflows/update-stats.yml/badge.svg)
 
-### 📫 Like to meet me?
+### 📫 预约讨论 / Like to meet me?
 
-Pick a slot if you'd like to talk about products, engineering, automation, AI agents, mobile apps, or the tiny details that make software feel good.
+Pick a slot on Feishu Scheduler if you'd like to talk about products, engineering, automation, AI agents, mobile apps, or the tiny details that make software feel good.
 
-<a href="https://github.com/LiMingHuaGit" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+[![Book a discussion](https://img.shields.io/badge/Feishu-预约讨论-3370FF?style=for-the-badge&logo=lark&logoColor=white)](https://s09ujs5n7k.feishu.cn/scheduler/embed/52f3c447c91f8de9)
+
+<a href="https://s09ujs5n7k.feishu.cn/scheduler/embed/52f3c447c91f8de9" target="_blank"><img width="498" alt="Book a discussion on Feishu Scheduler" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 👇 Hit in your console or terminal to find me on GitHub.
 
